@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-25T16:56:09 IST" name="TestNG Suite" finished-at="2022-08-25T16:56:10 IST" duration-ms="1893">
+    <groups>
+    </groups>
+    <test started-at="2022-08-25T16:56:09 IST" name="TestNG test" finished-at="2022-08-25T16:56:10 IST" duration-ms="1893">
+      <class name="org.usb.testing.APITest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:org.usb.testing.APITest@43301423]" started-at="2022-08-25T16:56:09 IST" name="setup" finished-at="2022-08-25T16:56:09 IST" duration-ms="329" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://reqres.in/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.usb.testing.APITest@43301423]" started-at="2022-08-25T16:56:09 IST" name="beforeMethod" finished-at="2022-08-25T16:56:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.usb.testing.APITest@43301423]" started-at="2022-08-25T16:56:09 IST" name="beforeMethod" finished-at="2022-08-25T16:56:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="createUser()[pri:1, instance:org.usb.testing.APITest@43301423]" started-at="2022-08-25T16:56:09 IST" name="createUser" finished-at="2022-08-25T16:56:10 IST" duration-ms="1333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="getAllUsers()[pri:0, instance:org.usb.testing.APITest@43301423]" started-at="2022-08-25T16:56:09 IST" name="getAllUsers" description="Test method to fetch all users!!" finished-at="2022-08-25T16:56:10 IST" duration-ms="1517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllUsers -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.usb.testing.APITest@43301423]" started-at="2022-08-25T16:56:10 IST" name="afterMethod" finished-at="2022-08-25T16:56:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.usb.testing.APITest@43301423]" started-at="2022-08-25T16:56:10 IST" name="afterMethod" finished-at="2022-08-25T16:56:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClassMethod()[pri:0, instance:org.usb.testing.APITest@43301423]" started-at="2022-08-25T16:56:10 IST" name="afterClassMethod" finished-at="2022-08-25T16:56:10 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassMethod -->
+      </class> <!-- org.usb.testing.APITest -->
+    </test> <!-- TestNG test -->
+  </suite> <!-- TestNG Suite -->
+</testng-results>
